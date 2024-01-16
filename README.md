@@ -1,21 +1,18 @@
-# next-template
+# shadcn/ui AspectRatio Playground
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A simple playground for [shadcn/ui](https://ui.shadcn.com) AspectRatio component.
+
+Allow users to render image, change it aspect ratio, and update the image src.
+
+## Demo
 
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+pnpm install
+
+pnpm run dev
 ```
-
-## Features
-
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
 
 ## License
 
